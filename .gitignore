@@ -1,0 +1,5 @@
+.env
+out/
+cache/
+deployments.json
+demo-log.json
